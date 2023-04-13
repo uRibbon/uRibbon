@@ -7,10 +7,10 @@
 ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white)
-<br>
+<br><br>
 
 ### 💛 With My Projects
-<br><br>
+<br>
 
 🗂️ DB
 <br>

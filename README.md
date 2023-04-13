@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFFFCC,100:CCFFCC&fontColor=FFF&height=200&section=header&text=EveryDay%20Shining,%20For%20Stella✨&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFFF00,100:CCFFCC&fontColor=FFF&height=200&section=header&text=EveryDay%20Shining,%20For%20Stella✨&fontSize=50&animation=twinkling)
 
 
 ### ⭐️ My Language

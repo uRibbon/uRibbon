@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFCCFF,100:FFCCCC&fontColor=FFF&height=200&section=header&text=EveryDay%20Shining,%20For%20Stella✨&fontSize=40&animation=twinkling)
 
 
-### 👩🏻‍💻 My Language
+### ⭐️ My Language
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white)
 ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=&logo=css3&logoColor=white)
@@ -10,7 +10,7 @@
 
 <br><br>
 
-### 💌 With My Projects
+### 💛 With My Projects
 <br>
 
 🗂️ DB
@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 <br><br>
 
-### ⭐️ My Tools
+### ✨ My Tools
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black)
 ![](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white")

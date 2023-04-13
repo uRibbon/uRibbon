@@ -32,7 +32,6 @@
 ![](https://img.shields.io/badge/Keras-#D00000?style=flat-square&logo=Keras&logoColor=white)
 ![](https://img.shields.io/badge/TensorFlow-#FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 ![](https://img.shields.io/badge/CNN-#CC0000?style=flat-square&logo=CNN&logoColor=white)
-![](https://img.shields.io/badge/OpenCV-##5C3EE8?style=flat-square&logo=OpenCV&logoColor=white)
 
 <br><br>
 ### ⭐️ My Tools

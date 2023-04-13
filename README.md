@@ -4,7 +4,7 @@
 🏫 Gachon University | GlobalBusiness & ComputerEngineering(doubleMajor) | 2021.03~2023.02
 <br>
 
-👩🏻‍💻 Gachon-Kakao Enterprise | 2022.09~2022.12
+👩🏻‍💻 ![](https://img.shields.io/badge/KAKAO-4479A1?style=flat-square&logo=kakao&logoColor=white)Gachon-Kakao Enterprise | 2022.09~2022.12
 <br><br>
 
 ### ⭐️ My Language
@@ -63,6 +63,8 @@
 ![](https://img.shields.io/badge/Sourcetree-0052CC?style=flat-square&logo=Sourcetree&logoColor=white)
 ![](https://img.shields.io/badge/JupyterNotebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![](https://img.shields.io/badge/PYCHARM-000000?style=flat-square&logo=pycharm&logoColor=white)
+![](https://img.shields.io/badge/DATAGRIP-000000?style=flat-square&logo=datagrip&logoColor=white)
 ![](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 <br><br>

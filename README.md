@@ -49,7 +49,7 @@
 ![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 <br><br>
 
-### ✨ My Tools
+### ✨ Tools
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black)
 ![](https://img.shields.io/badge/ApacheTomcat-F8DC75?style=flat-square&logo=ApacheTomcat&logoColor=black)
 ![](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white")
@@ -60,3 +60,10 @@
 ![](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white)
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white)
 <br><br>
+
+
+### 🌼 History
+| **NO** | **PERIOD**              | **TITLE**                                            | **SUBJECT**                                                        |
+|--------|-------------------------|------------------------------------------------------|-------------------------------------------------------------|
+| 1      | 2022.03.02 - 2022.06.02 | University Project                    | [주차장 공석 알림 서비스 플랫폼 개발](https://github.com/uRibbon/parking_lot_vacancy_detection_service_platform.git)                                    |
+| 2      | 2022.09.05 - 2022.12.13 | Gachon-Kakao Enterprise Project                         | 설문조사 기반 데이터 공유 플랫폼 개발                                             |

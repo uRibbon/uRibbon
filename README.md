@@ -4,7 +4,7 @@
 🏫 Gachon University | GlobalBusiness & ComputerEngineering(doubleMajor) | 2021.03~2023.02
 <br>
 
-👩🏻‍💻 ![](https://img.shields.io/badge/KAKAO-4479A1?style=flat-square&logo=kakao&logoColor=white)Gachon-Kakao Enterprise | 2022.09~2022.12
+👩🏻‍💻 ![](https://img.shields.io/badge/KAKAO-FFCD00?style=flat-square&logo=kakao&logoColor=white)Gachon-Kakao Enterprise | 2022.09~2022.12
 <br><br>
 
 ### ⭐️ My Language

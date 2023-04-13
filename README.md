@@ -1,8 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFCCE5,100:FFFFCC&fontColor=FFF&height=200&section=header&text=EveryDay%20Shining,%20For%20Stella✨&fontSize=50&animation=twinkling)
 
-### ✨ 
+### ✨ StudyFactory
+🏫 Gachon University | GlobalBusiness & ComputerEngineering(doubleMajor) | 2021.03~2023.02
+<br>
 
-
+👩🏻‍💻 Gachon-Kakao Enterprise | 2022.09~2022.12
+<br><br>
 
 ### ⭐️ My Language
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white)

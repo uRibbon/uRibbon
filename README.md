@@ -1,10 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFCCE5,100:FFFFCC&fontColor=FFF&height=200&section=header&text=EveryDay%20Shining,%20For%20Stella✨&fontSize=50&animation=twinkling)
 
 
-### 💌 Current Studying (For Improving)
-![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
-![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=&logo=css3&logoColor=white)
+### 💌 Current Studying (For Pre&Review)
+![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white)
 <br><br>
 
 ### ✨ Study Factory
@@ -83,7 +81,7 @@
 <br><br>
 
 
-### 🌼 History
+### 🌼 Projects
 | **NO** | **PERIOD**              | **TITLE**                                            | **SUBJECT**                                                        |
 |--------|-------------------------|------------------------------------------------------|-------------------------------------------------------------|
 | 1      | 2022.03.02 - 2022.06.02 | Gachon-University Project                    | [주차장 공석 알림 서비스 플랫폼 개발](https://github.com/uRibbon/parking_lot_vacancy_detection_service_platform.git)                                    |

@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFCCE5,100:FFFFCC&fontColor=FFF&height=200&section=header&text=EveryDay%20Shining,%20For%20Stella✨&fontSize=50&animation=twinkling)
 
 
-### 💌 Current Studying (In LG U-CAMP)
+### 💌 Current Studying (In LG CNS U-CAMP)
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=&logo=html5&logoColor=white)
@@ -14,6 +14,9 @@
 <br>
 
 👩🏻‍💻 Gachon-Kakao Enterprise | 2022.09~2022.12 ![](https://img.shields.io/badge/Kakao-FFCD00?style=flat-square&logo=kakao&logoColor=white)
+<br>
+
+👩🏻‍💻 LG CNS U-CAMP | 2023.09~2023.11
 <br><br>
 
 ### ⭐️ My Language

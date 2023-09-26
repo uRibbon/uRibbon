@@ -1,9 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=0:FFCCE5,100:FFFFCC&fontColor=FFF&height=200&section=header&text=EveryDay%20Shining,%20For%20Stella✨&fontSize=50&animation=twinkling)
 
 
-### 💌 Current Studying (For Pre&Review)
+### 💌 Current Studying (In LG U-CAMP)
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=&logo=css3&logoColor=white)
+
 
 ### ✨ Study Factory
 🏫 Gachon University | GlobalBusiness & ComputerEngineering(DoubleMajor) | 2019.03~2023.02

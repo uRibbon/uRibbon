@@ -17,6 +17,7 @@
 <br><br>
 
 ### ⭐️ My Language
+![](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=PYTHON&logoColor=white)
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white)
 <br><br>

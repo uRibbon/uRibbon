@@ -3,7 +3,8 @@
 
 ### 💌 Current Studying
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white)
-![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
+
 
 
 ### ✨ Study Factory

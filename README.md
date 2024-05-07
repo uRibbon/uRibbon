@@ -2,8 +2,8 @@
 
 
 ### 💌 Current Studying
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) 
 ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Conda-Forge&logoColor=white)
-![](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=Oracle&logoColor=white)
 
 
 
